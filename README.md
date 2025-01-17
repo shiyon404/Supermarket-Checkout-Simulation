@@ -37,10 +37,10 @@ This simulation manages supermarket checkout processes with both self-service an
 ## Installation
 ```sh
 # Clone the repository
-git clone https://github.com/yourusername/supermarket-checkout-simulation.git
+git clone https://github.com/shiyon404/Supermarket-Checkout-Simulation.git
 
 # Navigate to project directory
-cd supermarket-checkout-simulation
+cd Supermarket-Checkout-Simulation
 
 # Run the simulation
 python main.py
